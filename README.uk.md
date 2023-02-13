@@ -49,9 +49,9 @@ Pages, в ветку `gh-pages`, каждый раз когда обновляе
 `your_username` и `your_repo_name` на свои, и отправить изменения на GitHub.
 
 ```json
-"homepage": "https://Pekalytska.github.io/goit-js-hw-08/",
+"homepage": "https://your_username.github.io/your_repo_name/",
 "scripts": {
-  "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+  "build": "parcel build src/*.html --public-url /your_repo_name/"
 },
 ```
 

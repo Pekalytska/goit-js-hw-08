@@ -34,5 +34,4 @@ function onFormSubmit(e) {
   ref.textarea.value = '';
 //  e.target[0].value = '';
 //  e.target[1].value = '';
-    console.log(e)
 }
